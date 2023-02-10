@@ -1,0 +1,8 @@
+{"production": {
+    "username": "kkumzwwabxmumn",
+    "password": "1cf8f186193ce85d78079014a03fc9819d049ecd3f9fd2dd89c75d9898a1e0ba",
+    "database": "d42a418f5ics8s",
+    "host": "ec2-3-234-131-8.compute-1.amazonaws.com",
+    "dialect": "postgres"
+}
+}
